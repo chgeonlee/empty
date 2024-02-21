@@ -10,19 +10,6 @@ git config --global user.name "chgeonlee"
 
 git init 
 
-<<<<<<< HEAD
-
-git remote add origin https://github.com/chgeonlee/empty.git
-
-git add .
-git commit -m "message"
-
-git branch -M main
-
-git push origin main
-
-=======
 git remote add origin https://github.com/chgeonlee/empty.git
 
 abc
->>>>>>> b9856d599c56d5331e06e3a3dc1298490db9ab8e
